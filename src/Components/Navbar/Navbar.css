@@ -1,0 +1,12 @@
+
+.nav-container{
+    background-color: #810009;
+   
+}
+
+.nav-element{
+    color: white;
+    display: flex;
+    display: inline-block;
+    padding: 2rem;
+}
