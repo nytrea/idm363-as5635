@@ -1,3 +1,12 @@
 .footer-container{
-    height: 20rem;
+    padding-top: 6rem;
+    height: 30rem;
+    margin: 0;
+}
+
+.footer-texture{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
 }

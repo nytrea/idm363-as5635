@@ -5,7 +5,7 @@ import background from './homepage-banner.jpg';
 
 const Banner = () => (
     <div className='banner-container'>
-        <img src={background} alt="Logo" class="banner-image"/>
+        <img src={background} alt="Logo" className="banner-image"/>
         {/* create parallax scrolling background */}
         {/* <h1>For Simple and Affordable Living</h1> */}
     </div>

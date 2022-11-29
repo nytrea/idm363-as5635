@@ -9,10 +9,11 @@ import { render } from "react-dom";
 const rootElement = ReactDOM.createRoot(document.getElementById('root'));
 
 rootElement.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>,
-  rootElement
+  <App/>
+  // <BrowserRouter>
+  //   <App />
+  // </BrowserRouter>,
+  // rootElement
 
 );
 
